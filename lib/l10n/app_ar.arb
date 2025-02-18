@@ -1,0 +1,18 @@
+{
+  "language" : "اللغة",
+  "theme": "النمط",
+  "letsStart" : "هيا نبدأ",
+  "email": "الحساب",
+  "password": "كلمة المرور",
+  "forgetYourPassword" : "نسيت كلمة المرور",
+  "logIn" : "تسجيل الدخول",
+  "dontHaveAccount" : "ليس لديك حساب",
+  "createAccount" : "انشاء حساب",
+  "or" : "او",
+  "logInWithGoogle" : "تسجيل الدخول بحساب جوجل",
+  "english" : "الانجليزية",
+  "arabic" : "العربية",
+  "darkMode" : " ليلي",
+  "lightMode" : " نهاري",
+  "enterValidEmail" : "ادخل حساب صالح"
+}

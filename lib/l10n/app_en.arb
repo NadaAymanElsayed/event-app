@@ -1,0 +1,18 @@
+{
+  "language" : "Language",
+  "theme": "Theme",
+  "letsStart" : "Let's Start",
+  "email": "E-Mail",
+  "password": "Password",
+  "forgetYourPassword" : "Forget your Password",
+  "logIn" : "Log in",
+  "dontHaveAccount" : "Don't have Account",
+  "createAccount" : "Create Account",
+  "or" : "Or",
+  "logInWithGoogle" : "Log in With Google",
+  "english" : "English",
+  "arabic" : "Arabic",
+  "darkMode" : "Dark Mode",
+  "lightMode" : "Light Mode",
+  "enterValidEmail" : "Enter valid E-Mail"
+}
